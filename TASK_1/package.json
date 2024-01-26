@@ -1,0 +1,19 @@
+{
+  "name": "task_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "(http.js) (os.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deathbringer98/QAP1-FULLSTACK_JS.git"
+  },
+  "author": "Matthew Menchinton",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/Deathbringer98/QAP1-FULLSTACK_JS/issues"
+  },
+  "homepage": "https://github.com/Deathbringer98/QAP1-FULLSTACK_JS#readme"
+}
