@@ -1,0 +1,20 @@
+1. http module:
+Description:
+The http module in Node.js is designed for handling HTTP (Hyper Text Transfer Protocol) communication. It allows Node.js applications to create HTTP servers and clients, making it a crucial component for building web applications and services.
+
+Sample Code Usage:
+In the sample code, the http module is used to create an HTTP server. The createServer method is employed to create a server instance that listens for incoming requests. The server responds with the message "Hello World!" when a request is received. The listen method specifies the port (8080) on which the server listens for incoming connections.
+
+2. filesystem module:
+Description:
+The fs (filesystem) module in Node.js provides functionality for interacting with the file system. It allows applications to perform operations such as reading, writing, and manipulating files and directories.
+
+Sample Code Usage:
+In the sample code, the fs module is used to write content to a new file named 'myfile.txt.' The writeFile method is employed to create or overwrite the specified file with the content "Hello content!". The provided callback function handles any errors that may occur during the file-writing process.
+
+3. os module:
+Description:
+The os module in Node.js provides utility methods related to the operating system. It allows applications to gather information about the underlying system, such as the hostname, operating system type, platform, architecture, load average, and user information.
+
+Sample Code Usage:
+In the sample code, the os module is used to obtain information about the system. The hostname method retrieves and logs the system's hostname, and the platform method retrieves and logs the operating system platform (e.g., 'win32', 'linux'). This demonstrates how the os module can be utilized to fetch system-related details within a Node.js application.
